@@ -1,0 +1,5 @@
+<map id="vTaskGetInfo" name="vTaskGetInfo">
+<area shape="rect" id="node2" href="$tasks_8c.html#aab948efa7e3b657465cd06196b259ed7" title="eTaskGetState" alt="" coords="160,5,268,31"/>
+<area shape="rect" id="node3" href="$tasks_8c.html#a084d232640bd1d04bcac0b8784417015" title="vTaskSuspendAll" alt="" coords="152,55,275,80"/>
+<area shape="rect" id="node4" href="$tasks_8c.html#adf830ea0f150fcdfdaa944667137f080" title="xTaskResumeAll" alt="" coords="154,104,274,129"/>
+</map>

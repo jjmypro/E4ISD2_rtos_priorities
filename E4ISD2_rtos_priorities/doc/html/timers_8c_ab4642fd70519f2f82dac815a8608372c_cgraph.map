@@ -1,0 +1,6 @@
+<map id="prvSwitchTimerLists" name="prvSwitchTimerLists">
+<area shape="rect" id="node2" href="$list_8c.html#a274fdced76bbdd9d8a4c4840ded2920c" title="uxListRemove" alt="" coords="225,5,331,31"/>
+<area shape="rect" id="node3" href="$list_8c.html#a28faa70d3ec4b4f39e53b0fc52d62ecf" title="vListInsert" alt="" coords="237,55,319,80"/>
+<area shape="rect" id="node4" href="$timers_8c.html#abd62ba39220d1d3eea5f64661e935193" title="xTimerGenericCommand" alt="" coords="193,104,363,129"/>
+<area shape="rect" id="node5" href="$task_8h.html#a0241000e08a261372186d34825a35979" title="xTaskGetSchedulerState" alt="" coords="411,104,579,129"/>
+</map>

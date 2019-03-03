@@ -1,0 +1,6 @@
+<map id="ulTaskNotifyTake" name="ulTaskNotifyTake">
+<area shape="rect" id="node2" href="$tasks_8c.html#ab4574e77d9aea876272e563c68f639da" title="prvAddCurrentTaskToDelayedList" alt="" coords="175,55,394,80"/>
+<area shape="rect" id="node3" href="$list_8c.html#a274fdced76bbdd9d8a4c4840ded2920c" title="uxListRemove" alt="" coords="442,5,548,31"/>
+<area shape="rect" id="node4" href="$list_8c.html#a3240bc0f43fcf755be02bfc6de7dc6ef" title="vListInsertEnd" alt="" coords="442,55,548,80"/>
+<area shape="rect" id="node5" href="$list_8c.html#a28faa70d3ec4b4f39e53b0fc52d62ecf" title="vListInsert" alt="" coords="454,104,536,129"/>
+</map>

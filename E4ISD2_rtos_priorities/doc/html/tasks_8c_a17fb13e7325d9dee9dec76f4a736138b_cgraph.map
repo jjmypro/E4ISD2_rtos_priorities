@@ -1,0 +1,5 @@
+<map id="xTaskResumeFromISR" name="xTaskResumeFromISR">
+<area shape="rect" id="node2" href="$tasks_8c.html#a0862bc7f1c4295e129a8497d1e10075d" title="prvTaskIsTaskSuspended" alt="" coords="212,5,384,31"/>
+<area shape="rect" id="node3" href="$list_8c.html#a274fdced76bbdd9d8a4c4840ded2920c" title="uxListRemove" alt="" coords="245,55,351,80"/>
+<area shape="rect" id="node4" href="$list_8c.html#a3240bc0f43fcf755be02bfc6de7dc6ef" title="vListInsertEnd" alt="" coords="245,104,351,129"/>
+</map>

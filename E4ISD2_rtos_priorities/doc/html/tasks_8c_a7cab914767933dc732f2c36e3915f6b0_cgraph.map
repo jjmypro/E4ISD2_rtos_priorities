@@ -1,0 +1,6 @@
+<map id="xTaskNotifyWait" name="xTaskNotifyWait">
+<area shape="rect" id="node2" href="$tasks_8c.html#ab4574e77d9aea876272e563c68f639da" title="prvAddCurrentTaskToDelayedList" alt="" coords="169,55,388,80"/>
+<area shape="rect" id="node3" href="$list_8c.html#a274fdced76bbdd9d8a4c4840ded2920c" title="uxListRemove" alt="" coords="436,5,542,31"/>
+<area shape="rect" id="node4" href="$list_8c.html#a28faa70d3ec4b4f39e53b0fc52d62ecf" title="vListInsert" alt="" coords="448,55,530,80"/>
+<area shape="rect" id="node5" href="$list_8c.html#a3240bc0f43fcf755be02bfc6de7dc6ef" title="vListInsertEnd" alt="" coords="436,104,542,129"/>
+</map>

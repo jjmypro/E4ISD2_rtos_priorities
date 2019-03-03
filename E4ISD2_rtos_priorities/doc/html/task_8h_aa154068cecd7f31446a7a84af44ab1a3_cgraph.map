@@ -1,0 +1,11 @@
+<map id="vTaskDelay" name="vTaskDelay">
+<area shape="rect" id="node2" href="$tasks_8c.html#ab4574e77d9aea876272e563c68f639da" title="prvAddCurrentTaskToDelayedList" alt="" coords="143,60,362,85"/>
+<area shape="rect" id="node6" href="$tasks_8c.html#a084d232640bd1d04bcac0b8784417015" title="vTaskSuspendAll" alt="" coords="191,109,314,134"/>
+<area shape="rect" id="node7" href="$tasks_8c.html#adf830ea0f150fcdfdaa944667137f080" title="xTaskResumeAll" alt="" coords="192,160,312,185"/>
+<area shape="rect" id="node3" href="$list_8c.html#a274fdced76bbdd9d8a4c4840ded2920c" title="uxListRemove" alt="" coords="713,134,819,160"/>
+<area shape="rect" id="node4" href="$list_8c.html#a3240bc0f43fcf755be02bfc6de7dc6ef" title="vListInsertEnd" alt="" coords="461,34,566,60"/>
+<area shape="rect" id="node5" href="$list_8c.html#a28faa70d3ec4b4f39e53b0fc52d62ecf" title="vListInsert" alt="" coords="472,84,555,109"/>
+<area shape="rect" id="node8" href="$tasks_8c.html#ad1b2e4995f863a99cf980836efe330d7" title="prvResetNextTaskUnblockTime" alt="" coords="410,185,617,210"/>
+<area shape="rect" id="node9" href="$tasks_8c.html#a54f31e9aef0eb7b87e48c7d68ecc84c1" title="xTaskIncrementTick" alt="" coords="444,234,583,260"/>
+<area shape="rect" id="node10" href="$task_8h.html#ab6607e5d8a9664e3aa9fe16efa694e83" title="xTaskCallApplicationTaskHook" alt="" coords="665,234,867,260"/>
+</map>

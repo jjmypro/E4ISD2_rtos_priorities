@@ -1,0 +1,12 @@
+<map id="prvListTasksWithinSingleList" name="prvListTasksWithinSingleList">
+<area shape="rect" id="node2" href="$tasks_8c.html#a24b033eee266bdc8c3de63171a543f65" title="vTaskGetInfo" alt="" coords="243,80,342,105"/>
+<area shape="rect" id="node3" href="$tasks_8c.html#a084d232640bd1d04bcac0b8784417015" title="vTaskSuspendAll" alt="" coords="430,5,553,31"/>
+<area shape="rect" id="node4" href="$tasks_8c.html#adf830ea0f150fcdfdaa944667137f080" title="xTaskResumeAll" alt="" coords="432,55,552,80"/>
+<area shape="rect" id="node9" href="$tasks_8c.html#aab948efa7e3b657465cd06196b259ed7" title="eTaskGetState" alt="" coords="437,104,546,129"/>
+<area shape="rect" id="node10" href="$tasks_8c.html#aaba9e72c97964b8d9496e8dbdd40aa60" title="prvTaskCheckFreeStackSpace" alt="" coords="390,153,594,179"/>
+<area shape="rect" id="node5" href="$list_8c.html#a274fdced76bbdd9d8a4c4840ded2920c" title="uxListRemove" alt="" coords="948,29,1053,55"/>
+<area shape="rect" id="node6" href="$tasks_8c.html#ad1b2e4995f863a99cf980836efe330d7" title="prvResetNextTaskUnblockTime" alt="" coords="643,55,850,80"/>
+<area shape="rect" id="node7" href="$tasks_8c.html#a54f31e9aef0eb7b87e48c7d68ecc84c1" title="xTaskIncrementTick" alt="" coords="677,104,816,129"/>
+<area shape="rect" id="node8" href="$task_8h.html#ab6607e5d8a9664e3aa9fe16efa694e83" title="xTaskCallApplicationTaskHook" alt="" coords="899,104,1102,129"/>
+<area shape="rect" id="node11" href="$task_8h.html#a799967af01d328132cde814e47733437" title="uxTaskGetStackHighWaterMark" alt="" coords="642,153,851,179"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="vPortFree" name="vPortFree">
+<area shape="rect" id="node2" href="$heap__4_8c.html#a1a70fdf86d8a603f45e9b93c14e0d24a" title="prvInsertBlockIntoFreeList" alt="" coords="133,5,309,31"/>
+<area shape="rect" id="node3" href="$task_8h.html#a366b302eba79d10b5ee2a3756f0fcc43" title="vTaskSuspendAll" alt="" coords="160,55,283,80"/>
+<area shape="rect" id="node4" href="$task_8h.html#a003f8ae6d649225abd030cc76e1c7d0e" title="xTaskResumeAll" alt="" coords="161,104,281,129"/>
+<area shape="rect" id="node5" href="$list_8c.html#a274fdced76bbdd9d8a4c4840ded2920c" title="uxListRemove" alt="" coords="660,79,766,104"/>
+<area shape="rect" id="node6" href="$tasks_8c.html#ad1b2e4995f863a99cf980836efe330d7" title="prvResetNextTaskUnblockTime" alt="" coords="357,104,564,129"/>
+<area shape="rect" id="node7" href="$tasks_8c.html#a54f31e9aef0eb7b87e48c7d68ecc84c1" title="xTaskIncrementTick" alt="" coords="392,153,530,179"/>
+<area shape="rect" id="node8" href="$task_8h.html#ab6607e5d8a9664e3aa9fe16efa694e83" title="xTaskCallApplicationTaskHook" alt="" coords="612,153,814,179"/>
+</map>

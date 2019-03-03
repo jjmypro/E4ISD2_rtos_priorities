@@ -1,0 +1,6 @@
+<map id="DbgConsole_Scanf" name="DbgConsole_Scanf">
+<area shape="rect" id="node2" href="$fsl__debug__console_8c.html#a11898c5015274863741c4f3f4d9edc08" title="Reads a character from standard input. " alt="" coords="227,5,377,31"/>
+<area shape="rect" id="node3" href="$fsl__debug__console_8c.html#a35f55af9f7b75973160392400dab481a" title="Converts an input line of ASCII characters based upon a provided string format. " alt="" coords="190,55,415,80"/>
+<area shape="rect" id="node4" href="$fsl__tickless__systick_8c.html#af9aace1b44b73111e15aa39f06f43456" title="__attribute__" alt="" coords="515,27,614,52"/>
+<area shape="rect" id="node5" href="$fsl__debug__console_8c.html#a0952438cbb9b8f10c9761ec85db77387" title="Scanline function which ignores white spaces. " alt="" coords="463,76,667,115"/>
+</map>

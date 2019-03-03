@@ -1,0 +1,12 @@
+<map id="portTASK_FUNCTION" name="portTASK_FUNCTION">
+<area shape="rect" id="node2" href="$task_8h.html#ad185d5a451380c4040888620d9a92ec6" title="eTaskConfirmSleepModeStatus" alt="" coords="216,5,424,31"/>
+<area shape="rect" id="node3" href="$tasks_8c.html#a903096c962a2bc907f4b902a7d42302a" title="prvCheckTasksWaitingTermination" alt="" coords="208,107,432,132"/>
+<area shape="rect" id="node4" href="$tasks_8c.html#a084d232640bd1d04bcac0b8784417015" title="vTaskSuspendAll" alt="" coords="480,43,603,68"/>
+<area shape="rect" id="node5" href="$tasks_8c.html#adf830ea0f150fcdfdaa944667137f080" title="xTaskResumeAll" alt="" coords="482,193,602,219"/>
+<area shape="rect" id="node6" href="$list_8c.html#a274fdced76bbdd9d8a4c4840ded2920c" title="uxListRemove" alt="" coords="954,244,1060,269"/>
+<area shape="rect" id="node10" href="$tasks_8c.html#ad538c599036f7914942471780230ffa6" title="prvDeleteTCB" alt="" coords="489,144,594,169"/>
+<area shape="rect" id="node7" href="$tasks_8c.html#ad1b2e4995f863a99cf980836efe330d7" title="prvResetNextTaskUnblockTime" alt="" coords="651,193,858,219"/>
+<area shape="rect" id="node8" href="$tasks_8c.html#a54f31e9aef0eb7b87e48c7d68ecc84c1" title="xTaskIncrementTick" alt="" coords="685,295,824,320"/>
+<area shape="rect" id="node9" href="$task_8h.html#ab6607e5d8a9664e3aa9fe16efa694e83" title="xTaskCallApplicationTaskHook" alt="" coords="906,295,1108,320"/>
+<area shape="rect" id="node11" href="$heap__1_8c.html#a1e7cea2fd1bc894ea3b5f5e8179d259b" title="vPortFree" alt="" coords="715,144,795,169"/>
+</map>

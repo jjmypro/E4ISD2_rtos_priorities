@@ -1,0 +1,8 @@
+<map id="SetupHardware" name="SetupHardware">
+<area shape="rect" id="node2" href="$clock__config_8c.html#a5e69c4eff0fd5236bbb0ff4e1d5a7a7e" title="This function executes configuration of clocks. " alt="" coords="175,5,341,31"/>
+<area shape="rect" id="node4" href="$board_8c.html#a4c84ccb952cb083367d7040cf9de3db8" title="BOARD_InitDebugConsole" alt="" coords="167,55,349,80"/>
+<area shape="rect" id="node6" href="$group__pin__mux.html#ga2c9fe54b6b84723fbaa590a6f4576966" title="Configures pin routing and optionally pin electrical features. " alt="" coords="198,104,318,129"/>
+<area shape="rect" id="node7" href="$rgb_led_8c.html#a0bd257db3fb98bba6461790c9be316d7" title="init_rgb" alt="" coords="226,153,291,179"/>
+<area shape="rect" id="node3" href="$clock__config_8c.html#a38b56ca5f0b395f8c8ed5aefd8410d83" title="CLOCK_CONFIG_SetFllExtRefDiv" alt="" coords="397,5,625,31"/>
+<area shape="rect" id="node5" href="$fsl__debug__console_8c.html#a583a4f10ee0464adf86a50bcd2918a13" title="Initializes the the peripheral used for debug messages. " alt="" coords="451,55,571,80"/>
+</map>

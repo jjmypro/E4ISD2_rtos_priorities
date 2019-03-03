@@ -1,0 +1,7 @@
+<map id="vTaskStartScheduler" name="vTaskStartScheduler">
+<area shape="rect" id="node2" href="$port_8c.html#ade5a8c6666e7413a0355cc252029c5c6" title="xPortStartScheduler" alt="" coords="208,55,349,80"/>
+<area shape="rect" id="node6" href="$timers_8h.html#af777ab3e9ac04abd5dd21be739fa1321" title="xTimerCreateTimerTask" alt="" coords="197,104,360,129"/>
+<area shape="rect" id="node3" href="$fsl__tickless__generic_8h.html#a397ed34de04a678dc71217c713763423" title="prvSetupTimerInterrupt" alt="" coords="408,5,565,31"/>
+<area shape="rect" id="node4" href="$port_8c.html#a813e8227aedfc6bd83c66c4a9b8e4f41" title="prvTaskExitError" alt="" coords="427,55,546,80"/>
+<area shape="rect" id="node5" href="$port_8c.html#a5cfc38319f17c8e804020ec247b6325d" title="vPortStartFirstTask" alt="" coords="420,104,553,129"/>
+</map>
